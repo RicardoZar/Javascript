@@ -1,6 +1,6 @@
-/*alert("Hola Mundo Perras");
-alert("Hola Muddddddddddddddddddddddddddededededojshusshhshshshhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhueueue23332222222222222222222222222222222ndo");
-alert("Hola putitas");*/
+/*alert("Hola Mundo");
+alert("Hola Mundo");
+alert("Hola ");*/
 
 //Variables
 /*var nombre = "B Rich";
